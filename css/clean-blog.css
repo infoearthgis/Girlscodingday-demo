@@ -405,3 +405,17 @@ img::-moz-selection {
 body {
   -webkit-tap-highlight-color: #0085A1;
 }
+.clean-blog {
+  color: white;
+}
+.clean-blog:hover {
+  color: rgb(145, 144, 144);
+  text-underline-position: none;
+  font-weight: bolder;
+}
+.blog{
+  font-weight:800;
+}
+.Bootstrap{
+  color:rgb(182, 179, 179);
+}
